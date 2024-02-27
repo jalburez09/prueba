@@ -1,5 +1,9 @@
 # ninja log v5
-1	995	7306972080960916	CMakeFiles/Repositorio.dir/main.cpp.obj	543462f112104365
-996	1101	7306972081972162	Repositorio.exe	84d7bee3b86ba057
 3	311	7307000755027334	CMakeFiles/Repositorio.dir/main.cpp.obj	543462f112104365
-311	389	7307000755789036	Repositorio.exe	84d7bee3b86ba057
+275	366	7307019280960732	Repositorio.exe	34a49b83acdbabe6
+1	282	7307015801883974	CMakeFiles/Repositorio.dir/prueba1.cpp.obj	6842fb2b76b249e0
+1	124	7307023679306024	build.ninja	74f4765604b4415f
+0	275	7307019280086233	CMakeFiles/Repositorio.dir/prueba2.cpp.obj	ee4ba42afdb87ca7
+0	122	7307023679306024	build.ninja	74f4765604b4415f
+3	283	7307024291530746	CMakeFiles/Repositorio.dir/prueba1.cpp.obj	6842fb2b76b249e0
+284	361	7307024292278280	Repositorio.exe	682f2aef7a1ee17f
